@@ -1,0 +1,19 @@
+{
+  "name": "postraid",
+  "version": "1.0.0",
+  "description": "Browse your Postraid brands and saved social content, then save supplied slide copy as editable carousel drafts. Review in Postraid before publishing; no generation, scheduling or credit spending.",
+  "author": {
+    "name": "Postraid",
+    "url": "https://www.postraid.com"
+  },
+  "homepage": "https://www.postraid.com",
+  "repository": "https://github.com/postraid/plugin",
+  "license": "MIT",
+  "keywords": [
+    "postraid",
+    "social-content",
+    "carousel",
+    "mcp"
+  ],
+  "privacyPolicyUrl": "https://www.postraid.com/privacy/"
+}

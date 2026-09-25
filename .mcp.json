@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "postraid": {
+      "type": "http",
+      "url": "https://mcp.postraid.com/mcp"
+    }
+  }
+}
